@@ -6,7 +6,7 @@ src = "src"
 title = "Proyecto de desarrollo local"
 
 [output.html]
-git-repository-url = ""
+git-repository-url = "https://github.com/Delgado74/proyecto"
 edit-url-template = ""
 
 
